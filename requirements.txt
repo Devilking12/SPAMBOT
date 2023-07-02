@@ -1,5 +1,10 @@
-Telethon
-python-dotenv
-asyncio
-TgCrypto
+heroku3
+python-decouple
 pyrogram
+pyLegendBS
+heroku3
+gitpython
+tgcrypto
+async-eval==0.1.11
+python-dotenv[cli]
+python-dotenv

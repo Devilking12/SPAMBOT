@@ -1,89 +1,208 @@
-# SPAMBOT
-<p>
-<h2> This Is SpamBot Of <a href="https://telegram.me/LegendBot_XD">@LegendBoy_XD</a></h2>
-</p>
-<p align="center">
-<a href="https://github.com/LEGEND-AI/SPAMBOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/LEGEND-AI/SPAMBOT?style=flat&logo=github&color=success" /> </a>
-<a href="https://github.com/LEGEND-AI/SPAMBOT/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/LEGEND-AI/SPAMBOT?style=flat&logo=github" /> </a>
-<a href="https://github.com/LEGEND-AI/SPAMBOT/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/LEGEND-AI/SPAMBOT?label=Forks&logo=github" /> </a>
-<a href="https://github.com/LEGEND-AI/SPAMBOT" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/LEGEND-AI/SPAMBOT?color=success" /> </a>
-<a href="https://github.com/LEGEND-AI/SPAMBOT" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/LEGEND-AI/SPAMBOT?style=flat&logo=github&color=yellow" /> </a>
-</p>
-<p align="center">
-<a href="https://github.com/LEGEND-AI/SPAMBOT" alt="GitHub release (latest by date including pre-releases)"> <img src="https://img.shields.io/github/v/release/LEGEND-AI/SPAMBOT?include_prereleases?style=flat&logo=github" /> </a>
-<a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
-<a href="https://github.com/LEGEND-AI/SPAMBOT" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
-<a href="https://github.com/LEGEND-AI/SPAMBOT" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/LEGEND-AI/SPAMBOT" /> </a>
-<a href="https://github.com/LEGEND-AI/SPAMBOT/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
-</p>
-<p align="center">
-<a href="https://t.me/Legend_Userbot" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
-<a href="https://github.com/LEGEND-AI/SPAMBOT/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
-<a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
-</p>
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=LEGEND-AI&repo=BOTSPAM&theme=lite)
 
-------------
+[![LEGENDBOTSPAM](https://graph.org/file/89ed7d3a2bd8aa2c61385.jpg)](https://github.com/LEGEND-AI/BOTSPAM)
+
+<h1 align="center">
+<b> 『ẞø†Spâm』 </b>
+</h1>
+
+<h6 align="center">
+  <b>✨ This is The One Of Best & Powerful Bot Spam In Telegram Based On Pyrogram ✨</b>
+</h6>
+
+
+![](https://img.shields.io/badge/BotSpam→V1.0-blue)
+
+![Branch](https://img.shields.io/badge/Branch-main-white?&style=social&logo=github)
+
+[![Python](https://img.shields.io/badge/Python-3.10.5-blue)](https://www.python.org/)
+
+-------
+
 ## Status Of Bot 
-
 <p align="left">
-    <a href="https://github.com/LEGEND-AI/SPAMBOT/network/members"><img src="https://img.shields.io/github/forks/LEGEND-AI/SPAMBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/SPAMBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-AI/SPAMBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/SPAMBOT"></a><p align="left"><a href="https://github.com/LEGEND-AI/SPAMBOT?"></a>
+<a href="https://github.com/LEGEND-AI/BOTSPAM/network/members"><img src="https://img.shields.io/github/forks/LEGEND-AI/BOTSPAM?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/BOTSPAM/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-AI/BOTSPAM?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/BOTSPAM"></a><p align="left"><a href="https://github.com/LEGEND-AI/BOTSPAM?"></a>
+  
+-------
 
-------------
-<h3> Deploy To Heroku </h3>
+## Telegram 🏪
 
-- First Fork This Repo
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/LegendBotSpam)
 
-- Click Below Deploy To Heroku
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/LegendBot_AI)
+ 
+-------
+
+## YouTube 📺
+
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCgv4QgLLpyHVWtBiTpr5srg?label=TeamLegend&style=social)](https://youtube.com/@TeamLegendBot)
+
+[![YouTube Video Views](https://img.shields.io/youtube/views/1A4xVEfyxYU?label=Intro+•&style=social)](https://youtu.be/1A4xVEfyxYU)
+
+------
+
+## 📄 <a name=" Required Variable"></a>Variable
+
+- [![YouTube Video Views](https://img.shields.io/youtube/views/yA9NsYE7SoM?label=Collect+•+Variable+•&style=social)](https://youtu.be/yA9NsYE7SoM)
+
+Required Variable | Description
+:--- | :---
+• APP_ID / API_HASH | Get This From my.telegram.org Or [Start Bot](https://t.me/Api_scrapper_fastbot)
+• BOT_TOKEN | Get This From [Bot Father](https://t.me/BotFather)
+• SUDO_USERS | Start [Rose Bot](https://t.me/MissRose_Bot)
+**Optional Variable** | **Description**
+• START_PIC / PING_PIC /HELP_PIC | Get This From [Click Here](https://t.me/vtelegraphbot)
+• START_MESSAGE | Put Your Start Message Here
+• HANDLER | Put Any One HANDLER [. , * #  / % ]
+• LOG_CHANNEL | Create New Group Add [Bot](https://t.me/missrose_bot)
+• BOT_TOKEN2 | Get This From [Bot Father](https://t.me/BotFather)
+• BOT_TOKEN3 | Get This From [Bot Father](https://t.me/BotFather)
+• BOT_TOKEN4 | Get This From [Bot Father](https://t.me/BotFather)
+• BOT_TOKEN5 | Get This From [Bot Father](https://t.me/BotFather)
+• BOT_TOKEN6 | Get This From [Bot Father](https://t.me/BotFather)
+• BOT_TOKEN7 | Get This From [Bot Father](https://t.me/BotFather)
+• BOT_TOKEN8 | Get This From [Bot Father](https://t.me/BotFather)
+• BOT_TOKEN9 | Get This From [Bot Father](https://t.me/BotFather)
+• BOT_TOKEN10 | Get This From [Bot Father](https://t.me/BotFather)
+• BOT_TOKEN11 | Get This From [Bot Father](https://t.me/BotFather)
+• BOT_TOKEN12 | Get This From [Bot Father](https://t.me/BotFather)
+• BOT_TOKEN13 | Get This From [Bot Father](https://t.me/BotFather)
+• BOT_TOKEN14 | Get This From [Bot Father](https://t.me/BotFather)
+• BOT_TOKEN15 | Get This From [Bot Father](https://t.me/BotFather)
+• BOT_TOKEN16 | Get This From [Bot Father](https://t.me/BotFather)
+• BOT_TOKEN17 | Get This From [Bot Father](https://t.me/BotFather)
+• BOT_TOKEN18 | Get This From [Bot Father](https://t.me/BotFather)
+• BOT_TOKEN19 | Get This From [Bot Father](https://t.me/BotFather)
+• BOT_TOKEN20 | Get This From [Bot Father](https://t.me/BotFather)
+• BOT_TOKEN21 | Get This From [Bot Father](https://t.me/BotFather)
+• BOT_TOKEN22 | Get This From [Bot Father](https://t.me/BotFather)
+• BOT_TOKEN23 | Get This From [Bot Father](https://t.me/BotFather)
+• BOT_TOKEN24 | Get This From [Bot Father](https://t.me/BotFather)
+• BOT_TOKEN25 | Get This From [Bot Father](https://t.me/BotFather)
+
+-------
+## Deploy On Heroku
+
+- [![YouTube Video Views](https://img.shields.io/youtube/views/1pLXf9jG8e4?label=Deploy+•+Heroku+•&style=social)](https://youtu.be/1pLXf9jG8e4)
 
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
---------
-<p>
+-------
 
-## 👨‍💻 Commands 👨‍💻
+## Vps Deployment [Coming soon]
 
-<br>
+- [![YouTube Video Views](https://img.shields.io/youtube/views/CH_KO1wim2o?label=Vps+•+Deployment+•&style=social)](https://youtu.be/CH_KO1wim2o)
 
-- <b>```.ping```</b> - To Check The Ping Of The Bots
 
-- <b>```.help```</b> - To Get The Help Message On How To Use The Commands
 
-- <b>```.spam <1-100> <text>```</b> - For Value Between 1-100
+## Okteto Deployment [Coming soon]
 
-- <b>```.bigspam <101-9999> <text>```</b> - For Value Between 100-10000
+- [![YouTube Video Views](https://img.shields.io/youtube/views/CH_KO1wim2o?label=Tutorial+•+Okteto+•&style=social)](https://youtu.be/CH_KO1wim2o)
 
-- <b>```.delayspam <delay> <count> <text>```</b> - To Add The Delay Of Some Time Between Each Message Sending Time 
+## Railway Deployment [Coming soon]
 
-- <b>```.replyraid <reply to person>```</b> - To Activate Raid For Replied Person
+- [![YouTube Video Views](https://img.shields.io/youtube/views/CH_KO1wim2o?label=Tutorial+•+Railway+•&style=social)](https://youtu.be/CH_KO1wim2o)
 
-- <b>```.dreplyraid <reply to person>```</b> - To Deactivate Raid For Replied Person
 
-- <b>```.raid <number> <reply to person>```</b> - To Raid The Person You Tagged
+## Mongenius Deployment 
 
-- <b>```.restart```</b> - To Restart Your Bots
 
-- <b>```.join <group link/username>```</b> - To Join All The Bots To That Group
+- [![YouTube Video Views](https://img.shields.io/youtube/views/ETE_v68Bt8Y?label=Tutorial+•+Mongenius+•&style=social)](https://youtu.be/ETE_v68Bt8Y)
 
-- <b>```.leave <group link/username>```</b> - To Leave All The Bots From That Group
 
-- <b>```.pjoin <group link/username>```</b> - To Join All The Bots To Private Group
+## Termux Deployment 
 
-- <b>```.pleave <group link/username>```</b> - To Leave All The Bots From That Private Group
-<br>
+- [![YouTube Video Views](https://img.shields.io/youtube/views/PmIPM8ZyQKQ?label=Tutorial+•+Termux+•&style=social)](https://youtu.be/PmIPM8ZyQKQ)
 
-------
-### To Get Details Of StringSession Follow Step: 
+----
 
-    - Go To Telegram Group And Send #api_hash
-    - Click Start
-    - Send Your Phone Number To @apiscrapperbot
-    - You Received Code From Telegram Like This:- VGFK0rHbzaF
-    - Copy Your Code
-    - Paste Ur Code in @apiscrapperbot
-    - You Received APP ID & API_HASH
-    - Now Run StringSession Given Below:
-   
+<h3>Commands</h3>
 
-### Generate Session From Below :-
+<b>1) apt update & upgrade</b>
 
-[![String](https://telegra.ph/file/dad1e2b98006e52945875.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
+```python
+apt upgrade && apt update
+```
+
+<b>2) Install python3, git </b>
+
+```python
+pkg install python3 && pkg install git
+```
+
+<b>3) clone repo and open dictionary </b>
+
+```python
+git clone https://github.com/LEGEND-AI/BOTSPAM && cd BOTSPAM
+```
+
+<b>4) Install requirements </b>
+
+```python
+pip3 install -r requirements.txt
+```
+
+
+<b>5) Run start.py to fill values and start Bot Spam </b>
+
+```python
+python3 start.py
+```
+
+<b>6) Now Your Bot Has Been Started Then Click On Exit
+
+## Qovery Deployment [Coming soon]
+
+- [![YouTube Video Views](https://img.shields.io/youtube/views/CH_KO1wim2o?label=Tutorial+•+Qovery+•&style=social)](https://youtu.be/CH_KO1wim2o)
+
+
+## Fly.io Deployment [Coming soon]
+
+- [![YouTube Video Views](https://img.shields.io/youtube/views/CH_KO1wim2o?label=Tutorial+•+Fly.io+•&style=social)](https://youtu.be/CH_KO1wim2o)
+
+## GitHub Action Deployment [Coming soon]
+
+- [![YouTube Video Views](https://img.shields.io/youtube/views/CH_KO1wim2o?label=Github+•+Action+•&style=social)](https://youtu.be/CH_KO1wim2o)
+
+## Render Deployment [Coming soon]
+
+- [![YouTube Video Views](https://img.shields.io/youtube/views/CH_KO1wim2o?label=Tutorial+•+Render+•&style=social)](https://youtu.be/CH_KO1wim2o)
+
+## Koyeb Deployment [Coming soon]
+
+- [![YouTube Video Views](https://img.shields.io/youtube/views/CH_KO1wim2o?label=Koyeb+•+Deployment+•&style=social)](https://youtu.be/CH_KO1wim2o)
+
+
+
+
+## Bugs
+
+- Provide me any bugs in issues tab of this repo
+
+## Disclaimer
+  
+>                     ❗YOU ARE FOREWARNED❗
+> We won't be responsible for any kind of ban due to this bot.
+
+> Bot Spam was made for fun purpose and to make group management easier.
+
+> It's your concern if you spam and gets your account banned.
+
+> Also, Forks won't be entertained.
+
+> If you fork this repo and edit plugins, it's your concern for further updates.
+
+> Forking Repo is fine. But if you edit something we will not provide any help.
+
+> In short, Fork At Your Own Risk    
+
+>               💖 Thanks for using our bot 💖
+
+</details>
+
+
+> Made with 💕 by [@TeamLegendXD](https://t.me/TeamLegendXD).    
+
+
+
+
